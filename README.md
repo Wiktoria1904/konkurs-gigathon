@@ -15,7 +15,7 @@ Gra jest symulacją, w której sterujesz łazikiem na kwadratowej mapie. Musisz 
 ## Wymagania
 
 Do uruchomienia gry potrzebujesz:
-- Python 3.12 lub nowszy.
+- Python 3.11 lub nowszy.
 - Biblioteka `tkinter` (zazwyczaj dołączona do standardowej instalacji Pythona, niezbędna dla modułu `turtle`).
 
 ## Uruchamianie Gry
